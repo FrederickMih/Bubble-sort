@@ -32,9 +32,9 @@ as Visual Studio Code, Atom, Sublime is recommended.
 
 👤 **Mih Frederick Ngum**
 
-- GitHub: [@chrystalme](https://github.com/FrederickMih)
-- Twitter: [@afam_ifeanyi](https://twitter.com/MihFrederick)
-- LinkedIn: [Malieze Afam Ifeanyi(chrys)](https://www.linkedin.com/in/fred-mih-495bb31a2/)
+- GitHub: [@FrederickMih](https://github.com/FrederickMih)
+- Twitter: [@MihFrederick](https://twitter.com/MihFrederick)
+- LinkedIn: [fred-mih](https://www.linkedin.com/in/fred-mih-495bb31a2/)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
